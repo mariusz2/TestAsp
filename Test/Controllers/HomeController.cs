@@ -10,20 +10,21 @@ namespace Test.Controllers
     {
         public ActionResult Index()
         {
+                // komentarz
             return View();
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-            // komentarz
+                // komentarz
             return View();
         }
 
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
+                // komentarz
             return View();
         }
     }
