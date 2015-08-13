@@ -22,7 +22,7 @@ namespace Test.Controllers
         }
 
         public ActionResult Contact()
-        {
+        { //sdfgsdsdfadsf
             ViewBag.Message = "Your contact page.";
                 // studio
             return View();
