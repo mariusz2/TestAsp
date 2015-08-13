@@ -17,14 +17,14 @@ namespace Test.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-                // komentarz
+                // visual
             return View();
         }
 
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-                // komentarz
+                // studio
             return View();
         }
     }
