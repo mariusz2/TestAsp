@@ -8,6 +8,7 @@ namespace Test.Controllers
 {
     public class HomeController : Controller
     {
+        // komentarz ze strony github
         public ActionResult Index()
         {
                 // komentarz aaaaaaaaaaaaaaaa
